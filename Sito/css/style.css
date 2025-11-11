@@ -11,7 +11,20 @@ header {
     padding: 20px 0;
     text-align: center;
 }
-
+header div{
+    padding-left: 3% ;
+    padding-right: 3% ;
+    padding-top: 1%;
+    border-radius: 15%;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+    padding: 0.5%;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
 main {
     padding: 20px;
 }
