@@ -1,4 +1,4 @@
-function nav(e, color) {
+function nav(e, color, colore) {
     var x = document.querySelector("#primo");
     x.style.backgroundColor = color;
 }
@@ -6,7 +6,8 @@ function nav(e, color) {
 var bcNav = document
     .querySelector("#a")
     .addEventListener("mouseover", function (e) {
-        nav(e, "#ffffff");
+        // nav(e, "#ffffff");
+        nav(e, "#6b6b6b");
     });
 var bcNav = document
     .querySelector("#a")
@@ -22,7 +23,8 @@ function nava(e, color) {
 var bcNav = document
     .querySelector("#aa")
     .addEventListener("mouseover", function (e) {
-        nava(e, "#ffffff");
+        // nava(e, "#ffffff");
+        nava(e, "#6b6b6b");
     });
 var bcNav = document
     .querySelector("#aa")
@@ -38,7 +40,8 @@ function navaa(e, color) {
 var bcNav = document
     .querySelector("#aaa")
     .addEventListener("mouseover", function (e) {
-        navaa(e, "#ffffff");
+        // navaa(e, "#ffffff");
+        navaa(e, "#6b6b6b");
     });
 var bcNav = document
     .querySelector("#aaa")

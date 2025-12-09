@@ -39,6 +39,10 @@ nav ul {
     justify-content: center;
     gap: 1rem;
 }
+a{
+    color: whitesmoke;
+    text-decoration: none;
+}
 main {
     padding: 20px;
 }
