@@ -8,3 +8,7 @@ Camera singola
 Matteo Galgano Gorni:
 Pagina prenotazione
 Camera doppia
+
+API una pagina web che non è fatta di immagini etc. , ma cè del testo che è in formato json, api è una funzone che ha un server
+
+curl significa client url
